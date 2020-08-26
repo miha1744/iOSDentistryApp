@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Haptica (3.0.2)
+  - Kingfisher (5.13.3):
+    - Kingfisher/Core (= 5.13.3)
+  - Kingfisher/Core (5.13.3)
+  - LBTATools (1.0.12)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SnapKit (5.0.1)
+  - SwiftDate (6.1.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Haptica
+  - Kingfisher
+  - LBTATools
+  - NVActivityIndicatorView
+  - SnapKit
+  - SwiftDate
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Haptica
+    - Kingfisher
+    - LBTATools
+    - NVActivityIndicatorView
+    - SnapKit
+    - SwiftDate
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Haptica: dc206651beeca25ab4744c633fbf0ae4d1e86baf
+  Kingfisher: d2b3d6a7200c93b34de9afcdf25c8dd9282ec277
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: d16851b4d1a41b123a184c870b0b9ca35c26d30b
+
+COCOAPODS: 1.8.4
